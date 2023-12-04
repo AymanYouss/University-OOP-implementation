@@ -1,7 +1,36 @@
-# University-OOP-implementation
-This project consists of a grading system for a university using object oriented programming in python.
+# University OOP Implementation
 
-Files:
-  - OOP project final.ipynb : Notebook containing multiple cells. Each cell contains a particular class. Please read the documentation for full understanding of the class' design.
-  - Univeristy management system diagram .pdf : The UML of the project.
+This Python project implements a grading system for a university using object-oriented programming (OOP) concepts. The project is designed to provide a comprehensive solution for managing university-related tasks.
 
+## Overview
+
+The main components of the project are organized in a Jupyter Notebook:
+
+- **OOP project final.ipynb:** A notebook containing multiple cells, each representing a particular class. Refer to the documentation within the notebook for a full understanding of the class design.
+
+Additionally, a visual representation of the project can be found in the UML diagram:
+
+- **Univeristy management system diagram .pdf:** The UML diagram illustrating the structure of the university management system.
+
+## Getting Started
+
+To explore and understand the classes and their interactions:
+
+1. Clone the repository: `git clone https://github.com/your-username/University-OOP-implementation.git`
+2. Open and review the `OOP project final.ipynb` notebook in a Jupyter Notebook environment.
+
+## UML Diagram
+
+The UML diagram provides a visual representation of the project's structure. Refer to the `Univeristy management system diagram .pdf` file for insights into class relationships and the overall system design.
+
+## Contributing
+
+If you are interested in contributing to the project, please follow the guidelines outlined in [CONTRIBUTING.md](link-to-CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [License Name] - see the [LICENSE.md](link-to-LICENSE.md) file for details.
+
+## Documentation
+
+For detailed documentation on each class and their design, refer to the `OOP project final.ipynb` notebook. Each cell in the notebook corresponds to a specific class, providing insights into their functionality and purpose.
