@@ -23,14 +23,6 @@ To explore and understand the classes and their interactions:
 
 The UML diagram provides a visual representation of the project's structure. Refer to the `Univeristy management system diagram .pdf` file for insights into class relationships and the overall system design.
 
-## Contributing
-
-If you are interested in contributing to the project, please follow the guidelines outlined in [CONTRIBUTING.md](link-to-CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](link-to-LICENSE.md) file for details.
-
 ## Documentation
 
 For detailed documentation on each class and their design, refer to the `OOP project final.ipynb` notebook. Each cell in the notebook corresponds to a specific class, providing insights into their functionality and purpose.
